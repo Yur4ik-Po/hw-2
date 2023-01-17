@@ -1,2 +1,15 @@
-.navigation {stop-color: rgba(8, 2, 2, 0.922);
- }
+
+:root {
+    --main-text-color: #757575;
+    --main-title-color: #212121;
+    --nav-text-color: #212121;
+    --active-color: #2196f3;
+}
+
+header.logo {
+    color: #2196f3;
+}
+
+.link {
+    color: #212121;
+}
